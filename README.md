@@ -2,6 +2,12 @@
 
 **EchoHive** is a cutting-edge video-sharing application that enables users to upload, bookmark, and stream videos seamlessly across both iOS and Android platforms. Designed to deliver an engaging user experience, EchoHive provides complete authentication features to ensure secure access and content management.
 
+
+
+https://github.com/user-attachments/assets/647977b8-90a1-4491-a44d-edaf4b351e97
+
+
+
 ## Features
 
 - 📹 **Upload Videos**: Users can easily upload their favorite videos directly from their devices.
@@ -12,10 +18,10 @@
 
 ## Tech Stack
 
-- ![React Native Expo](path/to/react-native-expo-logo.png) **React Native Expo**: For building a cross-platform mobile application with ease.
-- ![Context API](path/to/context-api-logo.png) **Context API**: Efficient state management, resulting in a 20% increase in user engagement and a 30% improvement in video upload and streaming performance.
-- ![Appwrite](path/to/appwrite-logo.png) **Appwrite**: Backend server for handling authentication, database, and storage operations.
-- ![NativeWind](path/to/nativewind-logo.png) **NativeWind**: Utility-first styling framework for consistent and responsive design.
+- **React Native Expo**: For building a cross-platform mobile application with ease.
+- **Context API**: Efficient state management, resulting in a 20% increase in user engagement and a 30% improvement in video upload and streaming performance.
+- **Appwrite**: Backend server for handling authentication, database, and storage operations.
+- **NativeWind**: Utility-first styling framework for consistent and responsive design.
 
 ## Installation
 
