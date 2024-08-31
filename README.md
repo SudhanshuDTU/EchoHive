@@ -1,11 +1,11 @@
 # EchoHive
 
-![ECHOHIVE](https://github.com/user-attachments/assets/f95a4f36-f675-4706-b47a-bc719972f0d0)
 
 
 
 https://github.com/user-attachments/assets/647977b8-90a1-4491-a44d-edaf4b351e97
 
+![ECHOHIVE](https://github.com/user-attachments/assets/f95a4f36-f675-4706-b47a-bc719972f0d0)
 
 **EchoHive** is a cutting-edge video-sharing application that enables users to upload, bookmark, and stream videos seamlessly across both iOS and Android platforms. Designed to deliver an engaging user experience, EchoHive provides complete authentication features to ensure secure access and content management.
 
