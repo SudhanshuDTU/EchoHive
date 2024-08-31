@@ -1,6 +1,7 @@
 # EchoHive
 
-/Users/sudhanshujha/Desktop/Dev/react-native/EchoHive/assets/images/ECHOHIVE.png
+![ECHOHIVE](https://github.com/user-attachments/assets/f95a4f36-f675-4706-b47a-bc719972f0d0)
+
 
 
 https://github.com/user-attachments/assets/647977b8-90a1-4491-a44d-edaf4b351e97
