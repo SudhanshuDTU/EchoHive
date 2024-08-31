@@ -1,12 +1,12 @@
 # EchoHive
 
-**EchoHive** is a cutting-edge video-sharing application that enables users to upload, bookmark, and stream videos seamlessly across both iOS and Android platforms. Designed to deliver an engaging user experience, EchoHive provides complete authentication features to ensure secure access and content management.
-
+/Users/sudhanshujha/Desktop/Dev/react-native/EchoHive/assets/images/ECHOHIVE.png
 
 
 https://github.com/user-attachments/assets/647977b8-90a1-4491-a44d-edaf4b351e97
 
 
+**EchoHive** is a cutting-edge video-sharing application that enables users to upload, bookmark, and stream videos seamlessly across both iOS and Android platforms. Designed to deliver an engaging user experience, EchoHive provides complete authentication features to ensure secure access and content management.
 
 ## Features
 
